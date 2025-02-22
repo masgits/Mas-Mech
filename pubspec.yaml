@@ -1,0 +1,45 @@
+name: masmech
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core:
+  firebase_auth:
+  firebase_database:
+  firebase_storage:
+  connectivity_plus: ^6.1.2
+  google_maps_flutter: ^2.1.1
+
+  geolocator: ^9.0.0
+  http: ^1.0.0
+  google_fonts: ^6.2.1
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/MASMECH_LOGO_2.png
+    - images/battery_replacement.png
+    - images/flat_tire.jpg
+    - images/brake_repair.jpg
+    - images/locked_car.jpg
+    - images/car_overheating.jpeg
+    - images/car_headlight.jpg
+    - images/starter.jpg
+    - images/radiator.jpg
+    - images/power_steering.jpeg
+    - images/windshield_wipers_repair.jpg
+    - images/account_icon.png
+    - assets/map_styles/custom_map_style.json

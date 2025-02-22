@@ -1,0 +1,2 @@
+D:/masmech/masmech/android/app/.cxx/Debug/2i1c366s/x86/CMakeFiles/edit_cache.dir
+D:/masmech/masmech/android/app/.cxx/Debug/2i1c366s/x86/CMakeFiles/rebuild_cache.dir
